@@ -1,5 +1,5 @@
 // init Isotope
-var $grid = $('.collection').isotope({
+var $grid = $('.collection-list').isotope({
     // options
   });
   // filter items on button click
