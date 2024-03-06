@@ -124,6 +124,34 @@ body {
   box-shadow: 0 7px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
+/* Newsletter */
+#newsletter{
+  background-color: rgba(179, 179, 170, 0.05);
+}
+#newsletter p{
+  max-width: 600px;
+}
+#newsletter .input-group{
+  max-width: 500px;
+}
+#newsletter .form-control{
+  border-top-left-radius: 25px;
+  border-bottom-left-radius: 25px;
+}
+#newsletter .btn{
+background-color: #e5345b;
+color: #fff;
+border-color: #e5345b;
+}
+#newsletter .btn:hover{
+  background-color: #000;
+  border-color: #000;
+}
+
+
+
+
+
 /* Media Queries */
 @media (min-width: 992px) {
   .nav-items {
