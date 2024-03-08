@@ -148,6 +148,12 @@ border-color: #e5345b;
   border-color: #000;
 }
 
+/* Footer */
+footer .brand{
+  font-family: var(--lg-font);
+  letter-spacing: 2px;
+}
+
 
 
 
